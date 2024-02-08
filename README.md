@@ -1,6 +1,4 @@
-<div style="text-align:center">
-    ![Devils-Harmer Logo](etc/logo.jpg)
-</div>
+![Devils-Harmer Logo](etc/logo.jpg)
 
 ```markdown
 # Devils-Harmer
