@@ -14,7 +14,7 @@ Devils-Harmer is a powerful DDoS (Distributed Denial of Service) attack tool wri
 - **Randomization**: Randomly selects user agents and IP addresses from provided lists for each request, making it difficult to trace the source of the attack.
 
 - **Ctrl+C Signal Handling**: Provides an option to stop the attack using the Ctrl+C keyboard shortcut, ensuring user control and safety.
-
+```
 ## Installation
 
 1. Clone the repository:
