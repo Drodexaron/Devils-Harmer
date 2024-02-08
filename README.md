@@ -45,6 +45,12 @@ Devils-Harmer is a powerful DDoS (Distributed Denial of Service) attack tool wri
 
 **Disclaimer:** This tool is intended for educational and testing purposes only. Misuse of this tool for malicious activities is strictly prohibited. The author takes no responsibility for any damages caused by the misuse of this tool.
 
+> [!NOTE]
+> Always ensure you have proper authorization before testing this tool on any network or server.
+
+> [!WARNING]
+> Using this tool to launch DDoS attacks without permission is illegal and unethical. Be responsible and use it only in controlled environments with proper authorization.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
