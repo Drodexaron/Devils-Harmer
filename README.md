@@ -1,6 +1,6 @@
-<div style="text-align:center">
-    <img src="etc/logo.jpg" alt="Devils-Harmer Logo" style="width: 200px; height: auto;">
-</div>
+<p align="center">
+  <img src="etc/logo.jpg" alt="Devils-Harmer Logo" style="width: 200px; height: auto;">
+</p>
 
 ```markdown
 # Devils-Harmer
