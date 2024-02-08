@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="etc/logo.jpg" alt="Devils-Harmer Logo" style="width: 200px; height: auto;">
+  <img src="etc/Logo.jpg" alt="Devils-Harmer Logo" style="width: 200px; height: auto;">
 </p>
 
 ```markdown
